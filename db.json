@@ -13,20 +13,5 @@
     "mdn": "2233445568",
     "eligibilityResult": false,
     "eligibilityCodeForCdma": 12
-  },
-  {
-    "mdn": "2233445569",
-    "eligibilityResult": false,
-    "eligibilityCodeForCdma": 12
-  },
-  {
-    "mdn": "2233445570",
-    "eligibilityResult": false,
-    "eligibilityCodeForCdma": 12
-  },
-  {
-    "mdn": "2233445571",
-    "eligibilityResult": false,
-    "eligibilityCodeForCdma": 12
   }
 ]
